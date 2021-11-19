@@ -1,0 +1,92 @@
+#bt {
+    -fx-background-color: white;
+    -fx-padding:18px 28px 18px 28px;
+    -fx-font-size:17px;
+    -fx-font-family: "微软雅黑";
+}
+
+#bt:hover {
+    -fx-background-color: lightgray;
+}
+
+#bt:pressed {
+    -fx-background-color: gray;
+}
+
+#bt2 {
+    -fx-background-color: white;
+    -fx-padding:18px 12px 18px 12px;
+    -fx-font-size:17px;
+    -fx-font-family: "微软雅黑";
+}
+
+#bt2:hover {
+    -fx-background-color: lightgray;
+}
+
+#bt2:pressed {
+    -fx-background-color: gray;
+}
+
+
+#bt1 {
+    -fx-background-color: white;
+    -fx-font-size:14px;
+    -fx-font-family: "微软雅黑";
+}
+
+#bt1:hover {
+    -fx-background-color: lightgray;
+}
+
+#bt1:pressed {
+    -fx-background-color: gray;
+}
+
+#registContinue {
+    -fx-background-color: white;
+    -fx-font-size:14px;
+    -fx-font-family: "微软雅黑";
+}
+
+#registContinue:hover {
+    -fx-background-color: lightgray;
+}
+
+#registContinue:pressed {
+    -fx-background-color: gray;
+}
+#bt3 {
+    -fx-background-color: white;
+    -fx-font-size:14px;
+    -fx-font-family: "微软雅黑";
+}
+
+#bt3:hover {
+    -fx-background-color: lightgray;
+}
+
+#bt3:pressed {
+    -fx-background-color: gray;
+}
+
+#menuLabel{
+    -fx-font-family: "幼圆";
+    -fx-font-size:40px;
+}
+
+#welcomeLabel{
+    -fx-font-family: "幼圆";
+    -fx-font-size:20px;
+    -fx-padding: 0 0 0 150;
+}
+
+#lb1{
+    -fx-font-family: "幼圆";
+    -fx-font-size:25px;
+}
+
+#lb2{
+    -fx-font-family: "幼圆";
+    -fx-font-size:18px;
+}
